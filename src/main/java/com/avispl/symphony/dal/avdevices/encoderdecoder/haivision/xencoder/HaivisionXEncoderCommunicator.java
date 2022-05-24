@@ -2235,7 +2235,6 @@ public class HaivisionXEncoderCommunicator extends SshCommunicator implements Mo
 //				if(StringUtils.isNullOrEmpty(connectionModeValue)){
 //					connectionModeValue = ConnectionModeEnum.CALLER.getName();
 //				}
-
 			default:
 				break;
 		}
